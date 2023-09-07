@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kelly___react/static/css/main.7f986106.css",
+    "main.js": "/kelly___react/static/js/main.f3466552.js",
+    "static/media/portfolio-2.jpg": "/kelly___react/static/media/portfolio-2.c082025dddeb09057e14.jpg",
+    "static/media/hero-bg.jpg": "/kelly___react/static/media/hero-bg.bf68ffbe5c0415cb26e9.jpg",
+    "static/media/portfolio-7.jpg": "/kelly___react/static/media/portfolio-7.a73da5d72b214ffa0637.jpg",
+    "static/media/about.jpg": "/kelly___react/static/media/about.f4e1e8d6b15f9a7b515b.jpg",
+    "static/media/portfolio-8.jpg": "/kelly___react/static/media/portfolio-8.3c46c6c1343ceb2aeb74.jpg",
+    "static/media/portfolio-1.jpg": "/kelly___react/static/media/portfolio-1.f8a4f20b1b6d6ee85702.jpg",
+    "static/media/portfolio-9.jpg": "/kelly___react/static/media/portfolio-9.fbfa970774a6b6c830d0.jpg",
+    "static/media/portfolio-6.jpg": "/kelly___react/static/media/portfolio-6.84b78cea838c36fac922.jpg",
+    "static/media/portfolio-5.jpg": "/kelly___react/static/media/portfolio-5.940ac6c8dea7f45f338f.jpg",
+    "static/media/portfolio-3.jpg": "/kelly___react/static/media/portfolio-3.fc9e27e7017aebbcbf06.jpg",
+    "static/media/portfolio-4.jpg": "/kelly___react/static/media/portfolio-4.ab6a84ccac895007e9c3.jpg",
+    "index.html": "/kelly___react/index.html",
+    "main.7f986106.css.map": "/kelly___react/static/css/main.7f986106.css.map",
+    "main.f3466552.js.map": "/kelly___react/static/js/main.f3466552.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f986106.css",
+    "static/js/main.f3466552.js"
+  ]
+}
